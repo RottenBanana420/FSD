@@ -1,5 +1,5 @@
 # FSD
-Repository Required for College Submissions
+Repository Required for College Submissions.
 
 Subject: Full Stack Development<br><br>
 Name: Kusai Hajuri<br>
